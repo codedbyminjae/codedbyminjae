@@ -1,8 +1,7 @@
 <div>
   
-  <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
-  
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=250&text=Backend%20Developer&fontColor=ffffff&fontAlignY=40&desc=Java%20%7C%20MySQL%20%7C%20Spring%20Boot&descAlignY=65&descAlign=60)
+
 </div>
 
 <div>
