@@ -55,11 +55,10 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MinJaeKim&show_icons=true&theme=tokyonight&hide=stars"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinJaeKim&layout=compact&theme=tokyonight"/>
-</div>
+[![MinJae's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinJaeKim&show_icons=true&theme=vue&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinJaeKim&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
 
