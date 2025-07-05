@@ -1,6 +1,6 @@
 <div>
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=250&text=Backend%20Developer&fontColor=ffffff&fontAlignY=40&desc=Java%20%7C%20MySQL%20%7C%20Spring%20Boot&descAlignY=65&descAlign=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:ECE9E6,100:FFFFFF&height=250&text=MinJaeKim&fontColor=000000&fontAlignY=40&desc=Backend%20Developer%20%7C%20Java%20%7C%20DB&descAlign=50&descAlignY=65)
 
 </div>
 
