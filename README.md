@@ -55,24 +55,23 @@
 
 ## 📊 GitHub Stats
 
-[![MinJae's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinJaeKim&show_icons=true&theme=vue&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![MinJae's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinJaeKim&show_icons=true&theme=solarized-light&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinJaeKim&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinJaeKim&layout=compact&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 ## ✨ Contact
 
-- 📧 Email: minjae.dev@example.com  
-- 💼 LinkedIn, Blog, or Portfolio: [바로가기 링크 삽입 가능]
+- 📧 Email: minjaekim7111@naver.com  
+- 💼 LinkedIn, Blog, or Portfolio: 링크 생성중
 
 ---
 
 <!-- footer -->
 <div align="center">
 
-"꾸준함은 실력을 이긴다."  
+"苦盡甘來."  
 **Backend Developer MinJaeKim** 올림 🙇‍♂️
 
 </div>
