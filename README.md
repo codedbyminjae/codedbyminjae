@@ -50,7 +50,13 @@
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
 <!-- AWS -->
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"/>
+---
 
+### 🏅 Baekjoon Online Judge
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minjaekim7111)](https://solved.ac/minjaekim7111)
+
+---
 ---
 
 ## 📊 GitHub Stats
