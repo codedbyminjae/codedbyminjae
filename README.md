@@ -54,7 +54,7 @@
 
 ### 🏅 Baekjoon Online Judge
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minjaekim7111)](https://solved.ac/minjaekim7111)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minjaekim7311)](https://solved.ac/minjaekim7111)
 
 ---
 ---
