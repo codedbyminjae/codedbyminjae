@@ -45,10 +45,9 @@
 
 ## 📊 GitHub Stats
 
-### 📊 My GitHub Stats
+[![MinJae's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinJae-King&show_icons=true&theme=radical&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![MinJae King's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinJae-King&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinJae-King&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinJae-King&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
