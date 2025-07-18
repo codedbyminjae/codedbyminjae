@@ -45,7 +45,8 @@
 
 ## 📊 GitHub Stats
 
-[![MinJae's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinJae-King&show_icons=true&theme=calm&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+![MinJae King's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinJae-King&show_icons=true&theme=default)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinJae-King&layout=compact&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
 
