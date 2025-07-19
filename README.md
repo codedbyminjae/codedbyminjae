@@ -36,17 +36,19 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"/>
+
 ---
 
 ### 🏅 Baekjoon Online Judge
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minjaekim7311)](https://solved.ac/minjaekim7111)
+
 ---
 
 
 ## 📊 GitHub Stats
 
-[![MinJae's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinJae-King&show_icons=true&theme=radical&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+![MinJae's github stats](https://github-readme-stats.vercel.app/api?username=MinJae-King&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinJae-King&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
