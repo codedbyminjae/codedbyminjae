@@ -58,14 +58,18 @@
 
 <p>
   <a href="mailto:minjaekim7111@naver.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Naver Mail-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>
+  </a>
+  <a href="mailto:minjaekim7311@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://velog.io/@minjaekim7111/posts" target="_blank">
-    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Velog Blog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
   </a>
 </p>
 
 ---
+
 
 
 <!-- footer -->
