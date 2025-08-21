@@ -48,9 +48,10 @@
 
 ## 📊 GitHub Stats
 
-![MinJae's github stats](https://github-readme-stats.vercel.app/api?username=MinJae-King&show_icons=true&theme=tokyonight&cache_buster=1) 
+![MinJae's github stats](https://github-readme-stats.vercel.app/api?username=MinJae-King&show_icons=true&theme=tokyonight&cache_buster=1&v=2)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinJae-King&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinJae-King&layout=compact&theme=radical&v=2)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
 
