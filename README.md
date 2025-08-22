@@ -56,3 +56,6 @@
 <a href="https://velog.io/@minjaekim7111/posts">
   <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/>
 </a>
+
+![Snake animation dark](https://github.com/MinJae-King/MinJae-King/blob/output/github-snake-dark.svg?palette=github-dark)
+
