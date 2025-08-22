@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F2F2F2&center=true&vCenter=true&width=500&lines=King+MinJae" alt="typing-effect" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F2F2F2&center=true&vCenter=true&width=500&lines=👑+King+MinJae" alt="typing-effect" />
 </p>
 
 ---
