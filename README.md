@@ -32,34 +32,6 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minjaekim7311)](https://solved.ac/minjaekim7311)
 
 ---
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MinJae-King&show_icons=true&theme=gotham&rank_icon=github" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinJae-King&layout=compact&theme=gotham" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MinJae-King&theme=gotham" alt="Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MinJae-King&theme=darkhub&no-frame=true&row=1&column=6" alt="Trophy" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MinJae-King&theme=gotham&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://metrics.lecoq.io/MinJae-King?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FSeoul&config.display=columns&config.order=base.header,base.repositories,base.activity,base.community" alt="Metrics" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/MinJae-King/MinJae-King/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MinJae-King&theme=gotham" alt="WakaTime" />
-</p>
 
 ## 📊 GitHub Stats
 
