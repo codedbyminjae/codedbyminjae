@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F2F2F2&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Hyunho+Choi!" alt="typing-effect" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F2F2F2&center=true&vCenter=true&width=500&lines=👑+金珉宰" alt="typing-effect" />
 </p>
 
 ---
