@@ -12,7 +12,6 @@
   #### :fire: I aim to become a King.<br/>
   #### :mortar_board: Computer Science, Software. SeoKyung University(SKU)
   <br/>
-  <br/>
 
 ## 🧱 Tech Stack
 
@@ -48,10 +47,9 @@
 
 ## 📊 GitHub Stats
 
-![MinJae's github stats](https://github-readme-stats.vercel.app/api?username=MinJae-King&show_icons=true&theme=tokyonight&cache_buster=1)
+![MinJae's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinJae-King&show_icons=true&theme=gotham)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinJae-King&layout=compact&theme=radical&v=2)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinJae-King&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
