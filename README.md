@@ -41,21 +41,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=MinJae-King&show_icons=true&theme=gotham&rank_icon=github" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinJae-King&layout=compact&theme=gotham" alt="Top Languages" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MinJae-King&theme=gotham" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MinJae-King&theme=darkhub&margin-w=10&row=2&column=4" alt="Trophy" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MinJae-King&theme=gotham" alt="GitHub Activity Graph" />
 </p>
-
----
-
 
 ---
 
