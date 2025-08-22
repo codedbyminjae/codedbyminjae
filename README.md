@@ -35,10 +35,22 @@
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MinJae-King&show_icons=true&theme=gruvbox" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinJae-King&layout=compact&theme=gruvbox" height="180"/>
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MinJae-King&show_icons=true&theme=gruvbox" alt="GitHub Stats" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinJae-King&layout=compact&theme=gruvbox" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MinJae-King&theme=gruvbox" alt="GitHub Streak" />
+</p>
+
+---
+
 
 ---
 
