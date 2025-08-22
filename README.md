@@ -35,8 +35,6 @@
 
 ## 📊 GitHub Stats
 
----
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MinJae-King&show_icons=true&theme=gotham&rank_icon=github" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinJae-King&layout=compact&theme=gotham" alt="Top Languages" />
