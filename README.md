@@ -38,16 +38,10 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MinJae-King&show_icons=true&theme=gruvbox" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MinJae-King&show_icons=true&theme=gotham&rank_icon=github" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinJae-King&layout=compact&theme=gotham" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinJae-King&layout=compact&theme=gruvbox" alt="Top Langs" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MinJae-King&theme=gruvbox" alt="GitHub Streak" />
-</p>
 
 ---
 
