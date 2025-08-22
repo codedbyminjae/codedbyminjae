@@ -27,10 +27,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/MinJae-King" alt="MinJae-King's Github chart" />
-</p>
-
 ## 🎖️ Algorithm Badge
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minjaekim7311)](https://solved.ac/minjaekim7311)
