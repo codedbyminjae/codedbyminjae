@@ -59,13 +59,10 @@
 
 ---
 
-<h3 align="center">🐍 Snake eating my contributions</h3>
-
-<p align="center">
-  <img src="https://github.com/MinJae-King/MinJae-King/blob/output/github-snake.svg" alt="Snake animation light"/>
-</p>
+## 🐍 Snake eating my contributions</h3>
 
 <p align="center">
   <img src="https://github.com/MinJae-King/MinJae-King/blob/output/github-snake-dark.svg?palette=github-dark" alt="Snake animation dark"/>
 </p>
 
+---
