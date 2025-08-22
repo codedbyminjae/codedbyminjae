@@ -59,7 +59,7 @@
 
 ---
 
-## 🐍 Snake eating my contributions</h3>
+## 🐍 Snake eating my contributions
 
 <p align="center">
   <img src="https://github.com/MinJae-King/MinJae-King/blob/output/github-snake-dark.svg?palette=github-dark" alt="Snake animation dark"/>
