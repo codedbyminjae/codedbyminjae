@@ -57,5 +57,15 @@
   <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/>
 </a>
 
-![Snake animation dark](https://github.com/MinJae-King/MinJae-King/blob/output/github-snake-dark.svg?palette=github-dark)
+---
+
+<h3 align="center">🐍 Snake eating my contributions</h3>
+
+<p align="center">
+  <img src="https://github.com/MinJae-King/MinJae-King/blob/output/github-snake.svg" alt="Snake animation light"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/MinJae-King/MinJae-King/blob/output/github-snake-dark.svg?palette=github-dark" alt="Snake animation dark"/>
+</p>
 
