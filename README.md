@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Nanum+Brush+Script&size=36&duration=3000&pause=1000&color=F7C325&center=true&vCenter=true&width=800&lines=👑+KingMinJae+[王民宰]+金玉民+%F0%9F%92%8E+재상재;열정과+지혜로+세상을+코딩하다" alt="typing-effect" />
+  <img src="https://readme-typing-svg.demolab.com?font=Nanum+Brush+Script&size=38&duration=3000&pause=1000&color=F7C325&center=true&vCenter=true&width=800&lines=👑+金珉宰+|+KingMinJae" alt="typing-effect" />
 </p>
-
 ---
 
 ## 🛠 Tech Stack
