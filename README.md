@@ -1,4 +1,6 @@
-# 👑 KingMinJae
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Nanum+Brush+Script&size=36&duration=3000&pause=1000&color=F7C325&center=true&vCenter=true&width=800&lines=👑+KingMinJae+[王民宰]+金玉民+%F0%9F%92%8E+재상재;열정과+지혜로+세상을+코딩하다" alt="typing-effect" />
+</p>
 
 ---
 
@@ -25,7 +27,7 @@
 
 ---
 
-## 🧮 Baekjoon Tier
+## 🎖️ Algorithm Badge
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minjaekim7311)](https://solved.ac/minjaekim7311)
 
