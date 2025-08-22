@@ -43,6 +43,14 @@
 </p>
 
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MinJae-King&theme=gotham" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MinJae-King&theme=darkhub&margin-w=10&row=2&column=4" alt="Trophy" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MinJae-King&theme=gotham" alt="GitHub Activity Graph" />
 </p>
 
