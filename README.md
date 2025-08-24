@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F2F2F2&center=true&vCenter=true&width=500&lines=King+MinJae" alt="typing-effect" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F2F2F2&center=true&vCenter=true&width=500&lines=CodedByMinjae" alt="typing-effect" />
 </p>
 
 ---
@@ -36,11 +36,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MinJae-King&show_icons=true&theme=gotham&rank_icon=github" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinJae-King&layout=compact&theme=gotham" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codedbyminjae&show_icons=true&theme=gotham&rank_icon=github" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedbyminjae&layout=compact&theme=gotham" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MinJae-King&theme=gotham" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codedbyminjae&theme=gotham" alt="GitHub Streak" />
 </p>
 
 ---
@@ -62,7 +62,5 @@
 ## 🐍 Snake eating my contributions
 
 <p align="center">
-  <img src="https://github.com/MinJae-King/MinJae-King/blob/output/github-snake-dark.svg?palette=github-dark" alt="Snake animation dark"/>
+  <img src="https://github.com/codedbyminjae/codedbyminjae/blob/output/github-snake-dark.svg?palette=github-dark" alt="Snake animation dark"/>
 </p>
-
----
