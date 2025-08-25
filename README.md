@@ -39,6 +39,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=codedbyminjae&show_icons=true&theme=gotham&rank_icon=github" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedbyminjae&layout=compact&theme=gotham" alt="Top Languages" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=codedbyminjae&theme=gotham" alt="GitHub Streak" />
 </p>
