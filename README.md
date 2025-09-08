@@ -1,24 +1,30 @@
+<h2 align="center">🧑‍💻 Passionate Backend Developer - CodedByMinjae 👑</h2>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F2F2F2&center=true&vCenter=true&width=500&lines=CodedByMinjae" alt="typing-effect" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F2F2F2&center=true&vCenter=true&width=500&lines=Hi+there👋;I'm+a+Backend+Developer;Passionate+about+Java+%26+Spring;CodedByMinjae" alt="typing-effect" />
 </p>
 
 ---
 
 ## 🛠 Tech Stack
 
-<p align="left">
+### 💻 Backend
+<p>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring-Boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"/>
   <img src="https://img.shields.io/badge/MyBatis-0052CC?style=for-the-badge&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST-000000?style=for-the-badge&logo=Rest&logoColor=white"/>
 </p>
 
-<p align="left">
+### 🗄️ Database
+<p>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
+</p>
+
+### 🧰 Tools & Platform
+<p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
@@ -37,6 +43,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=codedbyminjae&show_icons=true&theme=gotham&rank_icon=github" alt="GitHub Stats" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedbyminjae&layout=compact&theme=gotham" alt="Top Languages" />
 </p>
 
@@ -44,20 +53,24 @@
   <img src="https://streak-stats.demolab.com?user=codedbyminjae&theme=gotham" alt="GitHub Streak" />
 </p>
 
-
 ---
 
 ## 📫 Contact
 
-<a href="mailto:minjaekim7311@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
-</a>
-<a href="mailto:minjaekim7111@naver.com">
-  <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/>
-</a>
-<a href="https://velog.io/@minjaekim7111/posts">
-  <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/>
-</a>
+<p align="left">
+  <a href="mailto:minjaekim7311@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
+  </a>
+  <a href="mailto:minjaekim7111@naver.com">
+    <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/>
+  </a>
+  <a href="https://velog.io/@minjaekim7111/posts">
+    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/>
+  </a>
+  <a href="https://your-portfolio-link.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
