@@ -41,9 +41,8 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=codedbyminjae&theme=gotham&timestamp=1694140800" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=codedbyminjae&theme=gotham" alt="GitHub Streak" />
 </p>
-
 
 
 ---
