@@ -5,8 +5,6 @@
   </samp>
 </h2>
 
----
-
 ## 🛠 Tech Stack
 
 ### 💻 Language
