@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=MinJae&fontColor=FFFFFF&fontSize=40&animation=fadeIn" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=MinJae;Code+with+Style;Hack+like+a+Pro" />
 </p>
-
-
 
 ---
 
