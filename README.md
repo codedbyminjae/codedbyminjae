@@ -1,15 +1,7 @@
-<h1 align="center">
-  <span style="
-    background: linear-gradient(to right, #ffffff, #999999);
-    -webkit-background-clip: text;
-    color: transparent;
-    font-family: 'Courier New', monospace;
-    font-size: 72px;
-    font-weight: bold;
-  ">
-    MJ
-  </span>
-</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=MinJae&fontColor=FFFFFF&fontSize=40&animation=fadeIn" />
+</p>
+
 
 
 ---
