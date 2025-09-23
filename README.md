@@ -5,7 +5,7 @@
 
 ---
 
-## 🖤 Tech Stack
+## 🛠 Tech Stack
 
 ### 💻 Language
 <p align="left">
