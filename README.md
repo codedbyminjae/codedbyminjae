@@ -1,12 +1,6 @@
-<!-- 상단 배너 -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=CodedByMinjae&fontColor=ffffff&fontSize=38&animation=fadeIn" />
-</p>
-
-<!-- 간지 문구 -->
-<p align="center">
-  <samp><b>Code like an artist. Solve like a machine.</b></samp>
-</p>
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=440&lines=$+whoami;CodedByMinjae" alt="whoami typing effect" />
+</h3>
 
 ---
 
