@@ -1,21 +1,26 @@
-<!-- 타이핑 효과 -->
-<h2 align="center">
-  <samp>
-    <b style="font-size:30px;">CodedByMinjae</b>
-  </samp>
-</h2>
+<!-- 상단 배너 -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=CodedByMinjae&fontColor=ffffff&fontSize=38&animation=fadeIn" />
+</p>
+
+<!-- 간지 문구 -->
+<p align="center">
+  <samp><b>Code like an artist. Solve like a machine.</b></samp>
+</p>
+
+---
 
 ## 🛠 Tech Stack
 
 ### 💻 Language
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=white"/>
 </p>
 
 ### 🌱 Framework / DB
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/SpringBoot-000000?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/JPA-000000?style=for-the-badge&logo=hibernate&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -23,7 +28,7 @@
 </p>
 
 ### 🧰 Tools
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
@@ -55,7 +60,7 @@
 
 ## 📫 Contact
 
-<p align="left">
+<p>
   <a href="mailto:minjaekim7311@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="mailto:minjaekim7111@naver.com"><img src="https://img.shields.io/badge/Naver-000000?style=for-the-badge&logo=naver&logoColor=white"/></a>
   <a href="https://velog.io/@minjaekim7111/posts"><img src="https://img.shields.io/badge/Velog-000000?style=for-the-badge&logo=velog&logoColor=white"/></a>
@@ -64,7 +69,7 @@
 
 ---
 
-## 🐍 Snake
+## 🐍 GitHub Snake
 
 <p align="center">
   <img src="https://github.com/codedbyminjae/codedbyminjae/blob/output/github-snake-dark.svg?palette=github-dark" alt="GitHub Snake"/>
