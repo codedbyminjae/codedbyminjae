@@ -1,6 +1,13 @@
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=440&lines=$+whoami;CodedByMinjae" alt="whoami typing effect" />
-</h3>
+<pre align="center">
+  ____ ___   ___  ____  _____ ____  ____  __  __ _   _ _____ 
+ / ___/ _ \ / _ \|  _ \| ____|  _ \|  _ \|  \/  | | | | ____|
+| |  | | | | | | | | | |  _| | | | | | | | |\/| | | | |  _|  
+| |__| |_| | |_| | |_| | |___| |_| | |_| | |  | | |_| | |___ 
+ \____\___/ \___/|____/|_____|____/|____/|_|  |_|\___/|_____|
+                                                            
+</pre>
+
+<p align="center"><b>CodedByMinjae</b></p>
 
 ---
 
