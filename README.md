@@ -11,8 +11,6 @@
 
 ---
 
----
-
 ## 🐍 GitHub Snake
 
 <p align="center">
