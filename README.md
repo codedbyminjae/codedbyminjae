@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=codedbyminjae&theme=dark&t=1" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=codedbyminjae&theme=dark" height="160"/>
 
 </p>
 
