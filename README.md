@@ -12,16 +12,6 @@
 
 ---
 
-## 🧠 Algorithm
-
-<p align="center">
-  <a href="https://solved.ac/minjaekim7311">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=minjaekim7311" alt="Solved.ac Profile"/>
-  </a>
-</p>
-
----
-
 ## 🐍 GitHub Snake
 
 <p align="center">
