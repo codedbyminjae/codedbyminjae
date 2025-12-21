@@ -1,6 +1,10 @@
 ## 🧠 Algorithm Badge
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minjaekim7311)](https://solved.ac/minjaekim7311)
+<p align="center">
+  <a href="https://solved.ac/minjaekim7311">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=minjaekim7311" height="150"/>
+  </a>
+</p>
 
 ---
 
@@ -14,6 +18,12 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=codedbyminjae&theme=dark" height="160"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats-wheat-psi.vercel.app/?user=codedbyminjae&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="150"/>
+</p>
+
+---
 
 ### 🐍 GitHub Snake     
 
