@@ -1,7 +1,7 @@
 ## 📈 GitHub Stats  
 
 <p align="center">   
-  <img 
+  <img  
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=codedbyminjae&show_icons=true&theme=dark&rank_icon=github&cache_seconds=86400" height="165"/>
   <img 
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=codedbyminjae&layout=compact&theme=dark&cache_seconds=86400" height="165"
