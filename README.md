@@ -2,11 +2,11 @@
 
 <p align="center">   
   <img  
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=codedbyminjae&show_icons=true&theme=github_dark&rank_icon=github"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=codedbyminjae&show_icons=true&theme=dark&rank_icon=github"
     height="165"
   />
   <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=codedbyminjae&layout=compact&theme=tokyonight"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=codedbyminjae&layout=compact&theme=github_dark"
     height="165"
   />
 </p>
