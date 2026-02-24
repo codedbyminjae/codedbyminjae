@@ -2,7 +2,7 @@
 
 <p align="center">   
   <img  
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=codedbyminjae&show_icons=true&theme=tokyonight&rank_icon=github"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=codedbyminjae&show_icons=true&theme=github_dark&rank_icon=github"
     height="165"
   />
   <img 
