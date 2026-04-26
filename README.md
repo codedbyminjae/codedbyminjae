@@ -1,6 +1,6 @@
-## 📈 GitHub Stats   
- 
-<p align="center">   
+## 📈 GitHub Stats    
+   
+<p align="left">   
   <img  
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=codedbyminjae&show_icons=true&theme=dark&rank_icon=github&icon_color=58A6FF"
     height="165"
@@ -11,13 +11,14 @@
   />
 </p>
 
----
-
-### 🐍 GitHub Snake     
-
-<p align="center">
-  <img 
-    src="https://github.com/codedbyminjae/codedbyminjae/blob/output/github-snake-dark.svg?palette=github-dark" 
-    alt="GitHub Snake"
-  />
+## 🐾 GitAnimals - 길드원 모집중 문의주세요
+<p align="left">
+  <a href="https://www.gitanimals.org/">
+      <img
+        src="https://render.gitanimals.org/guilds/836232059888474990/draw"
+        width="600"
+        height="300"
+        alt="gitanimals"
+      />
+    </a>
 </p>
