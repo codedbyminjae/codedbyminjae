@@ -6,7 +6,7 @@
     height="165"
   />
   <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=codedbyminjae&layout=compact&theme=dark&hide_border=false&langs_count=8&hide=html,css"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=codedbyminjae&layout=compact&theme=dark&hide_border=false"
     height="165"
   />
 </p>
