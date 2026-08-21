@@ -9,14 +9,3 @@
   />
 </p>
 
-## 🐾 GitAnimals - 길드원 모집중 문의주세요
-<p align="left">
-  <a href="https://www.gitanimals.org/">
-      <img
-        src="https://render.gitanimals.org/guilds/836232059888474990/draw"
-        width="600"
-        height="300"
-        alt="gitanimals"
-      />
-    </a>
-</p>
