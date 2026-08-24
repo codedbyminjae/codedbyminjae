@@ -1,4 +1,4 @@
-## 📈 GitHub Stats
+## 📈 GitHub Stat
 <p align="left">
   <img
     src="https://github-stats-extended.vercel.app/api?username=codedbyminjae&show_icons=true&theme=dark&rank_icon=github&icon_color=58A6FF"
